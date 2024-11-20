@@ -1,0 +1,1890 @@
+    1* brew
+    2* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3* nano apps.txt
+    4* ls
+    5* vim apps
+    6* ls
+    7* nano apps.txt
+    8* ls
+    9* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   10* clang
+   11* gcc
+   12* git
+   13* xcode-select --install
+   14* gcc
+   15* xcode-select -p
+   16* $ xcode-select -p
+   17* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   18* (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/kalophain/.zprofile
+   19*  eval "$(/opt/homebrew/bin/brew shellenv)"
+   20* brew help
+   21* ls -la
+   22* brew update
+   23* brew upgrade
+   24* brew install time-out
+   25* brew tap homebrew/cask-versions
+   26* brew install homebrew/cask-versions/firefox-developer-edition
+   27* brew install firefox-developer-edition
+   28* brew install --cask firefox@developer-edition
+   29* brew doctor
+   30* brew upgrade raycast
+   31* brew search raycast
+   32* brew --casks install raycast
+   33* brew install raycast
+   34* brew upgrade
+   35* brew install git
+   36* brew upgrade
+   37* ls -la
+   38* nvim 
+   39* vim .zshrc
+   40* zshconfig
+   41* vim zshconfig
+   42* vim .zshrc
+   43* ls
+   44* ls -la 
+   45* vim .config
+   46* vim .zshrc
+   47* ls
+   48* ls -la
+   49* eval "$(ssh-agent -s)"
+   50* open ~/.ssh/config
+   51* ssh-keygen -t ed25519 -C “Chueutemosho@gmail.com”
+   52* eval "$(ssh-agent -s)"
+   53* open ~/.ssh/config
+   54* touch ~/.ssh/config
+   55* open ~/.ssh/config
+   56* vim ~/.ssh/config
+   57* open ~/.ssh/config
+   58* vim ~/.ssh/config
+   59* ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   60* ls -la
+   61* ~
+   62* ls
+   63* ls -la
+   64* cd ~/.ssh/
+   65* ls
+   66* ~
+   67* eval "$(ssh-agent -s)"
+   68* sudo -s -H 
+   69* ls
+   70* nano apps.tx
+   71* ls
+   72* nano apps.txt
+   73* pbcopy < ~/.ssh/id_ed25519.pub
+   74* nano apps.txt
+   75* nano cli-apps.txt
+   76* curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   77* brew install alt-tab
+   78* ls
+   79* git --version
+   80* brew --version
+   81* echo 
+   82* ls
+   83* cd
+   84* pwd
+   85* echo $SHELL
+   86* sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   87* nvm
+   88* nvm install latest
+   89* nvm install node
+   90* ls
+   91* node --version
+   92* nvm use 20
+   93* nvm install 20
+   94* nvm ls-remote
+   95* nvm install 22
+   96* vim winning.js
+   97* default
+   98* npm --version
+   99* nvm --version
+  100* nvm use 22
+  101* nvm --version
+  102* ls
+  103* node winning.js
+  104* rm winning.js
+  105* ls
+  106* cd Documents
+  107* ls
+  108* cd Web\ Development
+  109* cd ..
+  110* ls
+  111* cd web_Dev
+  112* ls
+  113* cd umuzi
+  114* touch important.md
+  115* ls
+  116* vim important.md
+  117* bat important.md
+  118* cat important.md
+  119* ~
+  120* cursor
+  121* ~
+  122* ls
+  123* cd Documents
+  124* cd web_Dev
+  125* ls
+  126* cd ..
+  127* ls
+  128* nano extensions.txt
+  129* npm install -g lite-server http-server license gitignore
+  130* npm fund
+  131* ls
+  132* cd Documents
+  133* vim extensions.txt
+  134* mv extensions.txt vs-extensions.txt
+  135* ls
+  136* cat vs-extensions.txt
+  137* ls
+  138* cat vs-extensions.txt| xargs -L1 code --install-extension
+  139* ls
+  140* cat vs-extensions.txt
+  141* ~
+  142* brew install devtoys
+  143* ls
+  144* brew install miro
+  145* git clone git@github.com:ColeCaccamise/dotfiles.git
+  146* git clone https://github.com/ColeCaccamise/dotfiles.git
+  147* ls
+  148* cd dotfiles
+  149* ls
+  150* ls -la
+  151* rm .git
+  152* rmd .git
+  153* rmd -f .git
+  154* rm -f .git
+  155* ls
+  156* code .
+  157* ls
+  158* cd ..
+  159* ls
+  160* cd dotfiles
+  161* ls
+  162* rm .
+  163* ls
+  164* git clone https://github.com/JazzyGrim/dotfiles.git
+  165* ~
+  166* brew install neovim
+  167* ls
+  168* cd Documents
+  169* ls
+  170* cd web_Dev
+  171* ls
+  172* git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+  173* ls
+  174* ls -la
+  175* ~
+  176* nvim ~/.zshrc
+  177* exit
+  178* 
+  179* cd ~/.zshrc
+  180* nvim ~/.zshrc
+  181* brew install exa fzf node neovim lazygit pnpm ripgrep tree-sitter yarn
+  182* brew install node
+  183* npm node
+  184* node
+  185* node --version
+  186* ls
+  187* ls -la
+  188* nvim .p10k.zsh
+  189* ./.p10k.zsh
+  190* ls
+  191* ls -la
+  192* cd .nvm
+  193* ls
+  194* cd ..
+  195* ls
+  196* ls -la
+  197* cd nvim
+  198* ls
+  199* cd nvm
+  200* cd .nvm
+  201* ls
+  202* ld
+  203* ls
+  204* cat package.json
+  205* ls
+  206* ~
+  207* ls -la
+  208* cd .vim
+  209* ls
+  210* ls -la
+  211* ~
+  212* la -la
+  213* ls
+  214* ls -la
+  215* nvim .zshrc
+  216* cat .zshrc
+  217* source ~/.zshrc
+  218* ls
+  219* p10k configure
+  220* ls
+  221* git clone
+  222* git clone git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+  223* git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+  224* vim ~/.zshrc
+  225* git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+  226* plugins=(git zsh-autosuggestions zsh-syntax-highlighting web-search)
+  227* ls
+  228* vim ~/.zshrc
+  229* ls
+  230* vim ~/.zshrc
+  231* source ~/.zshrc
+  232* nvim
+  233* gss
+  234* gs
+  235* ls
+  236* ls -la
+  237* ls
+  238* cd dotfiles
+  239* ls
+  240* ls -la
+  241* cd dotfiles
+  242* ls
+  243* ls -la
+  244* cd .config
+  245* ls
+  246* mv nvim ..
+  247* ls
+  248* cd ..
+  249* ls
+  250* cd nvim
+  251* ls
+  252* cd ..
+  253* ls
+  254* mv nvim ..
+  255* ls
+  256* cd .
+  257* mv README.md ..
+  258* ls
+  259* cd ..
+  260* ls
+  261* nvim
+  262* ~
+  263* brew install neovim
+  264* nvim --version
+  265* ls
+  266* cd ~/.config
+  267* ls
+  268* cd ~/Documents/
+  269* ls
+  270* ~
+  271* ls
+  272* cd dotfiles
+  273* ls
+  274* cp nvim ~/.config
+  275* mv nvim ~/.config
+  276* cd ~/.config
+  277* ls
+  278* nvim
+  279* nvim ~/.zshrc
+  280* ls
+  281* nvim
+  282* vim ~/.zshrc
+  283* cd ~/.config
+  284* code .
+  285* ~
+  286* cd ~/.zshrc
+  287* code .
+  288* fzf path
+  289* fzf
+  290* source ~/.zshrc
+  291* bat .zshrc
+  292* source ~/.zshrc
+  293* git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+  294* source ~/.zshrc
+  295* git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+  296* git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+  297* plugins=(git zsh-autosuggestions zsh-syntax-highlighting web-search)
+  298* source ~/.zshrc
+  299* brew upgrade
+  300* brew outdate
+  301* brew help
+  302* brew update
+  303* ls
+  304* cd documents
+  305* ls
+  306* brew install wget 
+  307* brew cleanuo wget
+  308* brew cleanup wget
+  309* brew install telnet tldr
+  310* brew cleanup tldr
+  311* brew install kap
+  312* brew install keka figma
+  313* brew
+  314* brew list
+  315* brew check
+  316* brew
+  317* brew  doctor
+  318* ls -la
+  319* ll
+  320* l
+  321* ll
+  322* nvim
+  323* l
+  324* ls
+  325* cd dotfiles
+  326* cd  ..
+  327* cd documents
+  328* ls
+  329* cd web_Dev
+  330* ls
+  331* cd umuzi
+  332* ls
+  333* touch writing_assignment.md
+  334* ls
+  335* cursor 
+  336* ls
+  337* cd documents
+  338* ls
+  339* cd web_Dev/umuzi
+  340* ls
+  341* touch 1 2 3 4 5 6 7 8 9 10 11 *.md
+  342* ls
+  343* cd pre_bootcamp
+  344* ls
+  345* cd project_Writing\ Assignment
+  346* ls
+  347* touch 1.md 2.md 3.md 4.md 5.md 6.md 7.md 8.md 9.md 10.md 11.md
+  348* ~
+  349* brew install javascript
+  350* ls
+  351* cd documents/
+  352* ls
+  353* cd web_Dev/umuzi
+  354* ls
+  355* cd pre_bootcamp
+  356* ls
+  357* cd challanges_tasks
+  358* LS
+  359* ls
+  360* node task1.js
+  361* bat task1.js
+  362* ls
+  363* node task1.js
+  364* nvim winning.js
+  365* node winning.js
+  366* rm winning.js
+  367* l
+  368* ls
+  369* node task1.js
+  370* ls
+  371* cd documents/
+  372* l
+  373* cd web_Dev/umuzi
+  374* cd pre_bootcamp
+  375* ls
+  376* cd challanges_tasks
+  377* l
+  378* node task1.js
+  379* ls -la
+  380* cp task1.js ~/
+  381* ~
+  382* ls
+  383* chmod u+x task1.js
+  384* node task1.js
+  385* ls
+  386* rm task1.js
+  387* node task1.js
+  388* node task2.js
+  389* node task2.js sally
+  390* node task2.js
+  391* node task2.js ("sally"
+  392* bat task2.js
+  393* ls -la
+  394* ./task2.js
+  395* npm install -g exports
+  396* npm install -g module
+  397* npm fund
+  398* ll
+  399* brew cleanup
+  400* node task2.js
+  401* brew upgrade cursor
+  402* l
+  403* cd documents/
+  404* ls
+  405* cd web_Dev/umuzi/pre_bootcamp
+  406* l
+  407* cd challanges_tasks
+  408* ls
+  409* node task2.js
+  410* node task1.js
+  411* ll
+  412* node task2.js ('sally)
+  413* node task2.js
+  414* npm install -g require
+  415* node task2.js
+  416* brew node repl
+  417* brew install node repl
+  418* brew cleanup repl
+  419* function edit_SMPrivilegedExecutables() {\n\t/usr/libexec/PlistBuddy -c "Remove :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent" "$1"\n\t/usr/libexec/PlistBuddy -c "Add :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent string 'identifier com.macpaw.CleanMyMac4.Agent'" "$1"\n}\nfunction CMMFoundation_framework_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/fd7bbfa9fd030091b3000094/200080d2c0035fd6b3000094/; \\n\t     s/554889e5e817030000/48c7c001000000c300/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction CMAgentController_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/ffc30191c0035fd6ff4302d1fc6f03a9fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/ffc30191c0035fd6000080d2c0035fd6fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/; \\n\t     s/0094ffc301d1fa6702a9f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/0094200080d2c0035fd6f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/; \\n\t\t s/554889e54157415641554154534883ec284989fe48897dd0/48c7c001000000c341554154534883ec284989fe48897dd0/; \\n\t     s/415f5dc3554889e54157415641554154534883ec584989fd/415f5dc348c7c000000000c341554154534883ec584989fd/; " | \\n\txxd -r -p -c 0 - "$1"\n}
+  420* function undo_CMAgentController_patch() {\n    xxd -p -c 0 "$1" - | \\n    sed "s/ffc30191c0035fd6000080d2c0035fd6fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/ffc30191c0035fd6ff4302d1fc6f03a9fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/; \\n         s/0094200080d2c0035fd6f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/0094ffc301d1fa6702a9f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/; \\n         s/48c7c001000000c341554154534883ec284989fe48897dd0/554889e54157415641554154534883ec284989fe48897dd0/; \\n         s/415f5dc348c7c000000000c341554154534883ec584989fd/415f5dc3554889e54157415641554154534883ec584989fd/; " | \\n    xxd -r -p -c 0 - "$1"\n}
+  421* ls
+  422* brew uograde
+  423* fuck
+  424* brew uograde
+  425* fuck
+  426* source ~/.zshrc
+  427* brew uograde
+  428* fuck
+  429* brew uograde
+  430* brew upgrade
+  431* clear
+  432* ls
+  433* cd ~
+  434* ls
+  435* ls -la
+  436* rm ~
+  437* rm -d ~
+  438* ls
+  439* cd umuzi
+  440* ls
+  441* ld
+  442* ls
+  443* cd documents/
+  444* ls
+  445* cd web_Dev/umuzi/pre_bootcamp
+  446* ls
+  447* gp git@github.com:Umuzi-org/Temoso-Chueu-585-understanding-the-review-column-.git\n\n
+  448* gc git@github.com:Umuzi-org/Temoso-Chueu-585-understanding-the-review-column-.git\n\n
+  449* ls
+  450* gc git@github.com:Umuzi-org/Temoso-Chueu-585-understanding-the-review-column-.git\n\n
+  451* git clone git@github.com:Umuzi-org/Temoso-Chueu-585-understanding-the-review-column-.git\n\n
+  452* ls
+  453* touch task1.py
+  454* nvim task1.py
+  455* python3 task1.py
+  456* ls
+  457* python3 --version
+  458* python3 task1.py
+  459* ls -la
+  460* history
+  461* nvim task1.py
+  462* chmod u+x task1.py
+  463* python3 task1.py
+  464* ls
+  465* python3 task1.py
+  466* ls
+  467* cd questions
+  468* ls
+  469* cp questions.sh ../
+  470* ls
+  471* cd ..
+  472* ls
+  473* mkdir questions_2
+  474* mv questions.sh ./questions_2
+  475* ls
+  476* cd questions_2
+  477* ls
+  478* nvim questions.sh
+  479* ./questions.sh
+  480* ls
+  481* touch answers.sh
+  482* nvim answers.sh
+  483* chmod +x answers.sh
+  484* ./answers.sh
+  485* ls
+  486* nvim question_1.md
+  487* nvim question_2.md
+  488* nvim question_3.md
+  489* nvim question_4.md
+  490* nvim question_5.md
+  491* nvim question_6.md
+  492* nvim question_7.md
+  493* nvim question_8.md
+  494* cd ..
+  495* ls
+  496* mkdir challanges_levels
+  497* cd challanges_levels
+  498* ls
+  499* mv questions.sh levels.sh
+  500* ls
+  501* nvim levels.sh
+  502* ./levels.sh
+  503* ls
+  504* nvim levels.sh
+  505* ./levels.sh
+  506* ls
+  507* nvim levels.sh
+  508* ls
+  509* cd ..
+  510* ls
+  511* exit
+  512* cleaf
+  513* clear
+  514* ls
+  515* cd projects/javascript/package-lock.json
+  516* cd /Users/kalophain/.cursor-tutor
+  517* ls
+  518* cd projects
+  519* cd javascript
+  520* ls
+  521* npm run package.json
+  522* ls
+  523* npm
+  524* ls
+  525* echo $0
+  526* ls
+  527* brew install bash
+  528* brew upgrade
+  529* ls
+  530* brew install grammarly
+  531* ls
+  532* open browser
+  533* ls
+  534* cd ..
+  535* ls
+  536* cd kalophaon
+  537* fzf
+  538* ls
+  539* cd ..
+  540* nvim .zshrc
+  541*  source ~/.zshrc 
+  542* nvim .zshrc
+  543* source ~/.zshrc
+  544* ls
+  545* l
+  546* ll
+  547* brew install MonitorControl
+  548*    source $ZSH/oh-my-zsh.sh
+  549* cd ~/.zshrc/oh-my-zsh.sh
+  550* ll
+  551* source $ZSH/oh-my-zsh.sh
+  552* ls
+  553* source $ZSH/oh-my-zsh.sh
+  554*    1   export PATH=$HOME/bin:/usr/local/bin:$ZSH:$PATH
+  555* history
+  556* source $ZSH/oh-my-zsh.sh
+  557* ls
+  558* cd documents/
+  559* cd web_Dev/Kprojects/
+  560* ls
+  561* touch lottoTest.js
+  562* nvim lottoTest.js
+  563* node lottoTest.js
+  564* p 
+  565* pi lottoTest.js
+  566* ls
+  567* sudo pip3 install flasgger
+  568* brew install pip3 install flasgger
+  569* brew install pipx
+  570* brew install JQuery 
+  571* p install jquery
+  572* p install jquery 3.7.1
+  573* clea
+  574* clear
+  575* ls
+  576* pmset -a disablesleep 1
+  577* sudo pmset -a disablesleep 1
+  578* pmset -a disablesleep 0\n
+  579* sudo pmset -a disablesleep 0\n
+  580* pmset -a disablesleep 1
+  581* sudo pmset -a disablesleep 1
+  582* brew install --cask lookaway
+  583* open lookaway
+  584* ls
+  585* rm -d node_modules
+  586* rm -d -f node_modules
+  587* ls
+  588* rm package.json
+  589* rm pnpm-lock.yaml
+  590* ls
+  591* brew install sparkle
+  592* ls
+  593* open *notes
+  594* open notes
+  595* open documents
+  596* 1.unzip CleanMyMacX-41506.0.2408071157.zip & Install.\n2.Paste in the Terminal.\n\n\nfunction edit_SMPrivilegedExecutables() {\n\t/usr/libexec/PlistBuddy -c "Remove :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent" "$1"\n\t/usr/libexec/PlistBuddy -c "Add :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent string 'identifier com.macpaw.CleanMyMac4.Agent'" "$1"\n}\nfunction CMMFoundation_framework_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/fd7bbfa9fd030091b3000094/200080d2c0035fd6b3000094/; \\n\t     s/554889e5e817030000/48c7c001000000c300/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction CMAgentController_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/ffc30191c0035fd6ff4302d1fc6f03a9fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/ffc30191c0035fd6000080d2c0035fd6fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/; \\n\t     s/0094ffc301d1fa6702a9f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/0094200080d2c0035fd6f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/; \\n\t\t s/554889e54157415641554154534883ec284989fe48897dd0/48c7c001000000c341554154534883ec284989fe48897dd0/; \\n\t     s/415f5dc3554889e54157415641554154534883ec584989fd/415f5dc348c7c000000000c341554154534883ec584989fd/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction cmmx_agent_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/f40300aae0090034/f40300aa340080d2/; \\n\t     s/84c00f8483010000/84c0909090909090/; \\n\t\t s/20616e6420616e63686f72206170706c652067656e6572696320616e64206365727469666963617465206c6561665b7375626a6563742e4f555d203d20225338455838324e4a503622/20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020/g; " | \\n\txxd -r -p -c 0 - "$1"\n\tcodesign -fs - --all-architectures --timestamp=none "$1"\n}\nfunction cmmx_patch() {\n\tlocal cmmx_exe_path="$1/Contents/MacOS/CleanMyMac X"\n\txxd -p -c 0 "$cmmx_exe_path" - | \\n\tsed "s/fc6fbea9fd7b01a9fd430091ff831bd1e8631191/200080d2c0035fd6fd430091ff831bd1e8631191/; \\n\t\t s/554889e54881eca0060000/48c7c001000000c3060000/; " | \\n\txxd -r -p -c 0 - "$cmmx_exe_path"\n\n\tCMAgentController_patch "$cmmx_exe_path"\n\tCMAgentController_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/MacOS/CleanMyMac X Menu"\n\n\tedit_SMPrivilegedExecutables "$1/Contents/Info.plist"\n\tedit_SMPrivilegedExecutables "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Info.plist"\n\t\n\tCMMFoundation_framework_patch "$1/Contents/Library/LoginItems/CleanMyMac X HealthMonitor.app/Contents/Frameworks/CMMFoundation.framework/Versions/A/CMMFoundation"\n\tCMMFoundation_framework_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Frameworks/CMMFoundation.framework/Versions/A/CMMFoundation"\n\n\tcmmx_agent_patch "$1/Contents/Library/LaunchServices/com.macpaw.CleanMyMac4.Agent"\n\tcmmx_agent_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Library/LaunchServices/com.macpaw.CleanMyMac4.Agent"\n\n\tcodesign -fs - --all-architectures --deep --timestamp=none "$1" && xattr -cr "$1"\n}; cmmx_patch "/Applications/CleanMyMac X.app"
+  597* function edit_SMPrivilegedExecutables() {\n\t/usr/libexec/PlistBuddy -c "Remove :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent" "$1"\n\t/usr/libexec/PlistBuddy -c "Add :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent string 'identifier com.macpaw.CleanMyMac4.Agent'" "$1"\n}\nfunction CMMFoundation_framework_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/fd7bbfa9fd030091b3000094/200080d2c0035fd6b3000094/; \\n\t     s/554889e5e817030000/48c7c001000000c300/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction CMAgentController_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/ffc30191c0035fd6ff4302d1fc6f03a9fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/ffc30191c0035fd6000080d2c0035fd6fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/; \\n\t     s/0094ffc301d1fa6702a9f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/0094200080d2c0035fd6f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/; \\n\t\t s/554889e54157415641554154534883ec284989fe48897dd0/48c7c001000000c341554154534883ec284989fe48897dd0/; \\n\t     s/415f5dc3554889e54157415641554154534883ec584989fd/415f5dc348c7c000000000c341554154534883ec584989fd/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction cmmx_agent_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/f40300aae0090034/f40300aa340080d2/; \\n\t     s/84c00f8483010000/84c0909090909090/; \\n\t\t s/20616e6420616e63686f72206170706c652067656e6572696320616e64206365727469666963617465206c6561665b7375626a6563742e4f555d203d20225338455838324e4a503622/20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020/g; " | \\n\txxd -r -p -c 0 - "$1"\n\tcodesign -fs - --all-architectures --timestamp=none "$1"\n}\nfunction cmmx_patch() {\n\tlocal cmmx_exe_path="$1/Contents/MacOS/CleanMyMac X"\n\txxd -p -c 0 "$cmmx_exe_path" - | \\n\tsed "s/fc6fbea9fd7b01a9fd430091ff831bd1e8631191/200080d2c0035fd6fd430091ff831bd1e8631191/; \\n\t\t s/554889e54881eca0060000/48c7c001000000c3060000/; " | \\n\txxd -r -p -c 0 - "$cmmx_exe_path"\n\n\tCMAgentController_patch "$cmmx_exe_path"\n\tCMAgentController_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/MacOS/CleanMyMac X Menu"\n\n\tedit_SMPrivilegedExecutables "$1/Contents/Info.plist"\n\tedit_SMPrivilegedExecutables "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Info.plist"\n\t\n\tCMMFoundation_framework_patch "$1/Contents/Library/LoginItems/CleanMyMac X HealthMonitor.app/Contents/Frameworks/CMMFoundation.framework/Versions/A/CMMFoundation"\n\tCMMFoundation_framework_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Frameworks/CMMFoundation.framework/Versions/A/CMMFoundation"\n\n\tcmmx_agent_patch "$1/Contents/Library/LaunchServices/com.macpaw.CleanMyMac4.Agent"\n\tcmmx_agent_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Library/LaunchServices/com.macpaw.CleanMyMac4.Agent"\n\n\tcodesign -fs - --all-architectures --deep --timestamp=none "$1" && xattr -cr "$1"\n}; cmmx_patch "/Applications/CleanMyMac X.app"
+  598* brew install nu>
+  599* brew install nu
+  600* sudo   ln -s "/opt/homebrew/Cellar/nu/2.3.0_3/Frameworks/Nu.framework" /Library/Frameworks
+  601* brew install bitwarden
+  602* brew install 1password
+  603* brew upgrade
+  604* code --install-extension yoavbls.pretty-ts-errors
+  605* code --force-extension yoavbls.pretty-ts-errors
+  606* brew install vs code
+  607* brew install visual studio code
+  608* brew install visual-studio-code
+  609* brew install --cask font-jetbrains-mono
+  610* ~
+  611* ls
+  612* code .
+  613* code
+  614* ls
+  615* cd documents/
+  616* ls
+  617* cd web_Dev
+  618* cd ..
+  619* code web_Dev
+  620* npm i prop-types
+  621* ls
+  622* rm package.json
+  623* rm package-lock.json
+  624* ls
+  625* rm -d tmp
+  626* ls
+  627* rm -d node_modules
+  628* rm -d -f node_modules
+  629* rm -f -d node_modules
+  630* rm -rd node_modules
+  631* ls
+  632* ln -ls
+  633* ln -s
+  634* tail -10
+  635* tail -l documuments
+  636* tail -f 
+  637* tail -10 
+  638* tail -file
+  639* ls
+  640* fzf
+  641* ls
+  642* cd documents/
+  643* ls
+  644* cd web_Dev
+  645* ls
+  646* cd umuzi
+  647* ls
+  648* cd pre_bootcamp
+  649* ls
+  650* tail -task1.py
+  651* tail -f task1.py
+  652* tail -f -2 task1.py
+  653* tail -f 2 task1.py
+  654* ls
+  655* exit
+  656* ps
+  657* top
+  658* fg
+  659* nvim
+  660* fg
+  661* ping host
+  662* whois
+  663* whois domain
+  664* wget file
+  665* whois home
+  666* date
+  667* cal
+  668* uptime
+  669* w
+  670* whoami
+  671* uname -a
+  672* cat /proc/cpuinfo
+  673* du
+  674* free
+  675* df
+  676* whereis vsocde
+  677* whereis arc
+  678* pnpm add drizzile-orm
+  679* npm i drizzle-orm
+  680* ls
+  681* rm -rd node_modules
+  682* rm package-lock.json
+  683* rm package.json
+  684* ls
+  685* p --version
+  686* ls
+  687* brew update
+  688* brew upgrade
+  689* brew cleanup
+  690* brew cleanup all
+  691* ls
+  692* cd documents/web_Dev
+  693* ls
+  694* cd documents/web_Dev/Kprojects
+  695* ls
+  696* cd Kprojects
+  697* ls
+  698* node lottoGenerator.js
+  699* ls
+  700* node lottoGenerator.js
+  701* ls
+  702* kalophain-portfolio
+  703* ls
+  704* node tailwind.config.js
+  705* p run
+  706* pnpm run
+  707* ls
+  708* pp vite.config.js
+  709* ls
+  710* bat Readme.md
+  711* kls
+  712* brew install bootstrap
+  713* npm i bootsrap
+  714* ls
+  715* cd ..
+  716* cd ~
+  717* ls
+  718* cd documents/web_Dev/Kprojects
+  719* cd ..
+  720* ls
+  721* cd umuzi
+  722* ls
+  723* cd pre_bootcamp
+  724* ls
+  725* cd questions_2
+  726* ls
+  727* cp questions.sh ../
+  728* ls
+  729* cd ..
+  730* ls
+  731* mkdir l1_coding_challanges
+  732* mv questions.sh l1_coding_challanges
+  733* ls
+  734* cd l1_coding_challanges
+  735* ls
+  736* nvim questions.sh
+  737* node questions.sh
+  738* ./questions.sh
+  739* ls
+  740* ping shoprite.co.za
+  741* ls
+  742* cd ~
+  743* ping remove shoprite.co.za
+  744* ping -z tos
+  745* ping -z
+  746* ls
+  747* whatis 
+  748* whatis ip
+  749* ahost(1)
+  750* brew upgrade
+  751* brew install --HEAD utf8proc
+  752* brew install node
+  753* ls
+  754* pnpm
+  755* ls
+  756* brew upgrade
+  757* ls
+  758* cd documents/web_Dev/Kprojects
+  759* ls
+  760* cd kalophain-portfolio
+  761* ls
+  762* cd node_modules
+  763* ls
+  764* ..
+  765* ls
+  766* l
+  767* pnpm run
+  768* pnpm vite.config.js
+  769* l
+  770* node package.json
+  771* pnpm install scripts
+  772* ls
+  773* nvim package.json
+  774* ls
+  775* node tailwind.config.js
+  776* nvim tailwind.config.js
+  777* nvim postcss.config.cjs
+  778* ..
+  779* ls
+  780* nvim lottoGenerator.js
+  781* l
+  782* cd Kprojects
+  783* l
+  784* node lottoTest.js
+  785* l
+  786* node lottoGenerator.js
+  787* ls
+  788* l
+  789* node lottoGenerator.js
+  790* l
+  791* node lottoGenerator.js
+  792* nvim lottoGenerator.js
+  793* ls
+  794* l
+  795* ..
+  796* ;
+  797* l
+  798* umuzi
+  799* ls
+  800* ll
+  801* pre_bootcamp
+  802* l
+  803* l1_coding_challanges
+  804* l
+  805* ls
+  806* l
+  807* cd documents/web_Dev/Kprojects
+  808* l
+  809* ..
+  810* l
+  811* umuzi
+  812* l
+  813* pre_bootcamp
+  814* l
+  815* l1_coding_challanges
+  816* l
+  817* gp https://github.com/Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+  818* git clone https://github.com/Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+  819* l
+  820* git clone git@github.com:Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+  821* ls
+  822* l
+  823* Temoso-Chueu-219-level-1-programming-katas-javascript
+  824* touch README.md
+  825* l
+  826* nvim README.md
+  827* bat README.md
+  828* L
+  829* l
+  830* ga . 
+  831* gcm "Level_1 programming"
+  832* git config --global user.email "chueutemosho@gmail.com"
+  833* git config --global user.name "Kalophain14"
+  834* ga .
+  835* gcm "Level_1 programming"
+  836* gp
+  837* gp -u
+  838* git push origin kalophain14
+  839* gp -u kalophain14
+  840* git checkout
+  841* l
+  842* g -hard reset
+  843* git reset
+  844* l
+  845* git checkout -b kalophain14
+  846* ga .
+  847* gcm "Level_1 programming"
+  848* l
+  849* git checkout -b main
+  850* git checkout main
+  851* git push -u origin localBranch:kalophain14
+  852* git branch
+  853* git checkout -b kalophain1
+  854* l
+  855* ga .
+  856* gcm "Level_1 programming"
+  857* l
+  858* ga .
+  859* gcm "Level_1 programming"
+  860* gp
+  861* git push --set-upstream origin kalophain1
+  862* l
+  863* ga .
+  864* gcm "Level_1 programming"
+  865* gp
+  866* ..
+  867* ll
+  868* ..
+  869* l
+  870* mkdir git-basic-exercises
+  871* l
+  872* git-basic-exercises
+  873* l
+  874* ls -la
+  875* git init
+  876* gs
+  877* touch README.md
+  878* ls -a
+  879* ll
+  880* l-a
+  881* ll
+  882* gs
+  883* gl
+  884* git log
+  885* ga .
+  886* gs
+  887* git unstage
+  888* git --help
+  889* alias
+  890* grh
+  891* gs
+  892* ga README.md
+  893* gcm "initial commit"
+  894* nano README.md
+  895* bat README.md
+  896* gs
+  897* gcm "second commit"
+  898* ga README.md
+  899* gcm "second commit"
+  900* nano README.md
+  901* gs
+  902* ga README.md
+  903* gcm "third commit"
+  904* gl
+  905* git log
+  906* git checkout
+  907* dd3a8d0af6baab3860be196f45d1085a5f72ea6f
+  908* git checkout dd3a8d0af6baab3860be196f45d1085a5f72ea6f
+  909* bat README.md
+  910* git checkout main
+  911* git checkout master
+  912* l
+  913* bat README.md
+  914* git checkout milkshake-flavours
+  915* gb -b milkshake-flavours
+  916* git branch milkshake-flavours
+  917* git branch
+  918* git checkout milkshake-flavours
+  919* git branch
+  920* git checkout master
+  921* git checkout milkshake-flavours
+  922* nano milkshakes.md
+  923* gs
+  924* gcm "added initial flavours"
+  925* ga milkshakes.md
+  926* gcm "added initial flavours"
+  927* git log
+  928* git branch history
+  929* git checkout history
+  930* git log
+  931* git branch
+  932* l
+  933* history > history.txt
+  934* ga .
+  935* gcm "added history"
+  936* git log
+  937* l
+  938* nano README.md
+  939* BAT README.md
+  940* rm README.md
+  941* echo "booya" > README.md
+  942* ga .
+  943* gcm "rewrote readme"
+  944* git checkout master
+  945* ls
+  946* git log
+  947* git checkout milkshake-flavours
+  948* ls
+  949* git log
+  950* git checkout history
+  951* ls
+  952* git log
+  953* git checkout master
+  954* git merge milkshake-flavours
+  955* ls
+  956* git log
+  957* git remote add origin https://github.com/Kalophain14/git-basic-exercises.git\ngit branch -M main\ngit push -u origin main
+  958* git remote add origin https://github.com/Kalophain14/git-basic-exercises.git
+  959* l
+  960* history
+  961* git config --global user.email "chueutemosho@gmail.com"
+  962* git config --global user.name "Kalophain14"
+  963* l
+  964* git remote add origin https://github.com/Kalophain14/git-basic-exercises.git
+  965* l
+  966* git branch -M main
+  967* git push -u origin main
+  968* git remote add origin https://github.com/Kalophain14/git-basic-exercises.git
+  969* ll
+  970* gp
+  971* gcm "rewrote readme"
+  972* ga .
+  973* gcm "rewrote readme"
+  974* gp
+  975* git push --set-upstream origin main
+  976* https://ghp_Zf87O3FDhHSvqJWC2lDbXwgVGTn9T94Ryz@github.com/Kalophain14/git-basic-exercises.git
+  977* git add origin https://ghp_Zf87O3FDhHSvqJWC2lDbXwgVGTn9T94Ryz@github.com/Kalophain14/git-basic-exercises.git
+  978* ll
+  979* ..
+  980* git add origin https://ghp_Zf87O3FDhHSvqJWC2lDbXwgVGTn9T94Ryz@github.com/Kalophain14/git-basic-exercises.git
+  981* git-basic-exercises
+  982* l
+  983* https://github.com/Kalophain14/git-basic-exercises.git
+  984* add origin https://github.com/Kalophain14/git-basic-exercises.git
+  985* git remote add origin https://github.com/Kalophain14/git-basic-exercises.git\ngit branch -M main\ngit push -u origin main
+  986* -M main
+  987* add origin -M main
+  988* gp -u origin main
+  989* ll
+  990* l
+  991* ..
+  992* l
+  993* mkdir git-basic-exercises
+  994* l
+  995* git-basic-exercises
+  996* l
+  997* git init
+  998* touch README.md
+  999* ls -a
+ 1000* gs
+ 1001* git log
+ 1002* gs
+ 1003* ga README.md 
+ 1004* gs
+ 1005* grh
+ 1006* l
+ 1007* gs
+ 1008* ga README.md 
+ 1009* gcm "initial commit"
+ 1010* git log
+ 1011* nano README.md
+ 1012* bat README.md
+ 1013* gs
+ 1014* gcm "second commit"
+ 1015* gcm -a "third commit"
+ 1016* ga README.md 
+ 1017* gcm "third commit"
+ 1018* git log
+ 1019* ..
+ 1020* l
+ 1021* mkdir git-basic-exercises
+ 1022* git-basic-exercises
+ 1023* l
+ 1024* git init
+ 1025* ls -a
+ 1026* touch README.md
+ 1027* ls -a
+ 1028* gs
+ 1029* git log
+ 1030* ga README.md 
+ 1031* gs
+ 1032* git restore --staged README.md
+ 1033* gr README.md
+ 1034* git restore --staged .
+ 1035* l
+ 1036* grh
+ 1037* gs
+ 1038* ga README.md 
+ 1039* gcm "initial commit"
+ 1040* git log
+ 1041* nano README.md
+ 1042* bat README.md
+ 1043* gs
+ 1044* git log
+ 1045* gcm "second commit"
+ 1046* nano README.md
+ 1047* gcm "second commit"
+ 1048* ga README.md 
+ 1049* gcm "second commit"
+ 1050* nano README.md
+ 1051* ga README.md 
+ 1052* gcm "third commit"
+ 1053* git log
+ 1054* git checkout
+ 1055* git checkout 932cafe78133efc3dcf0bb5b4348dc7d34f7a137
+ 1056* bat README.md
+ 1057* git checkout master
+ 1058* bat README.md
+ 1059* git branch
+ 1060* git branch milkshake-flavours
+ 1061* git branch
+ 1062* git checkout milkshake-flavours
+ 1063* git branch
+ 1064* nano milkshakes.md
+ 1065* gs
+ 1066* ga milkshakes.md
+ 1067* gcm "added initial flavours"
+ 1068* git log
+ 1069* git checkout master
+ 1070* git loC
+ 1071* git log
+ 1072* git checkout history
+ 1073* l
+ 1074* git branch
+ 1075* git branch history
+ 1076* git checkout history
+ 1077* git branch
+ 1078* history > history.txt
+ 1079* l
+ 1080* bat history.txt
+ 1081* ga history.txt
+ 1082* gcm "added history"
+ 1083* git log
+ 1084* git checkout milkshake-flavours
+ 1085* git log
+ 1086* nano README.md
+ 1087* gs
+ 1088* ga README.md
+ 1089* gcm "random readme changes"
+ 1090* git checkout h
+ 1091* git checkout history
+ 1092* bat README.md
+ 1093* rm README.md
+ 1094* echo "booya" > README.md
+ 1095* ga README.md
+ 1096* gcm "rewrote readme"
+ 1097* git checkout master
+ 1098* l
+ 1099* git log
+ 1100* git checkout milkshake-flavours
+ 1101* l
+ 1102* git log
+ 1103* git checkout history
+ 1104* l
+ 1105* git log
+ 1106* git checkout master
+ 1107* git merge milkshake-flavours
+ 1108* l
+ 1109* git log
+ 1110* git merge history
+ 1111* ls
+ 1112* git log
+ 1113* grh
+ 1114* l
+ 1115* gs
+ 1116* ga history.txt
+ 1117* gs
+ 1118* gr README.md
+ 1119* git restore README.md
+ 1120* L
+ 1121* l
+ 1122* git merge history
+ 1123* l
+ 1124* git checkout history
+ 1125* git log
+ 1126* git checkout milkshake-flavours
+ 1127* git log
+ 1128* git checkout history
+ 1129* git log
+ 1130* git checkout master
+ 1131* git checkout histiry
+ 1132* alias
+ 1133* gco history
+ 1134* gm master
+ 1135* alias
+ 1136* git log
+ 1137* gco master
+ 1138* grh
+ 1139* l
+ 1140* gco master
+ 1141* gs
+ 1142* git restore milkshakes.md
+ 1143* git restore README.md
+ 1144* ga .
+ 1145* git log
+ 1146* git remote add origin https://github.com/Kalophain14/git-basic-exercises.git\ngit branch -M main\ngit push -u origin main
+ 1147* git remote add origin\nhttps://ghp_Zf87O3FDhHSvqJWC2lDbXwgVGTn9T94Ryz@github.com/Kalophain14/git-basic-exercises.git\ngit branch -M master\ngit push -u origin master
+ 1148* git remote add origin https://ghp_Zf87O3FDhHSvqJWC2lDbXwgVGTn9T94Ryz@github.com/Kalophain14/git-basic-exercises.git\ngit branch -M master\ngit push -u origin master\n
+ 1149* gb -M master
+ 1150* gp -u origin master
+ 1151* gp -u -f origin master
+ 1152* l
+ 1153* cd ../
+ 1154* ls
+ 1155* gcl https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1156* l
+ 1157* a-repo-to-clone
+ 1158* git branch
+ 1159* git branch -a
+ 1160* git checkout a-branch-with-a-few-commits
+ 1161* git remote -v
+ 1162* git log
+ 1163* ..
+ 1164* l
+ 1165* git-basic-exercises
+ 1166* l
+ 1167* ~
+ 1168* l
+ 1169* cd documents/web_Dev/umuzi
+ 1170* l
+ 1171* pre_bootcamp
+ 1172* l
+ 1173* mkdir this-will-be-another-repo
+ 1174* this-will-be-another-repo
+ 1175* gi
+ 1176* touch README.md
+ 1177* ga .
+ 1178* gcm "add README file"
+ 1179* ../git-basic-exercises
+ 1180* git log
+ 1181* touch ignore-me.db
+ 1182* gs
+ 1183* nano .gitignore
+ 1184* gs
+ 1185* cd ..
+ 1186* mkdir large-directory-that-should-be-local-only
+ 1187* large-directory-that-should-be-local-only
+ 1188* touch README.md
+ 1189* nano README.md
+ 1190* cd ..
+ 1191* gs
+ 1192* l
+ 1193* large-directory-that-should-be-local-only
+ 1194* gs
+ 1195* ..
+ 1196* l
+ 1197* ll
+ 1198* ..
+ 1199* cd ~
+ 1200* l
+ 1201* cd documents/web_Dev/umuzi
+ 1202* l
+ 1203* pre_bootcamp
+ 1204* l
+ 1205* git-basic-exercises
+ 1206* l
+ 1207* la
+ 1208* nano .gitignore
+ 1209* gs
+ 1210* ga .gitignore
+ 1211* gcm "added .gitignore"
+ 1212* gp
+ 1213* ../..
+ 1214* l
+ 1215* pre_bootcamp
+ 1216* l
+ 1217* mkdir person
+ 1218* person
+ 1219* l
+ 1220* ll
+ 1221* touch person.js
+ 1222* code .
+ 1223* ls
+ 1224* cd ..
+ 1225* ls
+ 1226* gcl git@github.com:Umuzi-org/Temoso-Chueu-223-person-javascript.git
+ 1227* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1228* l
+ 1229* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1230* cd Temoso-Chueu-223-person-javascript
+ 1231* ls
+ 1232* code .
+ 1233* ls
+ 1234* cd ..
+ 1235* ls
+ 1236* l1_coding_challanges
+ 1237* ls
+ 1238* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1239* ls
+ 1240* ..
+ 1241* ls
+ 1242* nvim questions.sh
+ 1243* ls
+ 1244* node questions.sh
+ 1245* ./questions.sh
+ 1246* ls
+ 1247* nvim questions.sh
+ 1248* ./questions.sh
+ 1249* ls
+ 1250* cd ..
+ 1251* ls
+ 1252* mkdir dlt_branch
+ 1253* dlt_branch
+ 1254* gcl https://github.com/Umuzi-org/Temoso-Chueu-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1255* ls
+ 1256* Temoso-Chueu-606-tilde-project-tutorial-how-repo-projects-work-
+ 1257* ls
+ 1258* git branch
+ 1259* git checkout
+ 1260* git branches
+ 1261* git branch
+ 1262* ls
+ 1263* mv important.md. important.md
+ 1264* ls
+ 1265* git branch
+ 1266* ls
+ 1267* cd ..
+ 1268* ls
+ 1269* cd ..
+ 1270* ls
+ 1271* gcl https://github.com/Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+ 1272* ls
+ 1273* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1274* ls
+ 1275* ga .
+ 1276* gcl "tasks update"
+ 1277* gcm "tasks update"
+ 1278* gp
+ 1279* ls
+ 1280* git branch
+ 1281* git checkout Kalophain-1
+ 1282* git help
+ 1283* git checkout help
+ 1284* git branch Kalophain-1
+ 1285* ls
+ 1286* git checkout Kalophain-1
+ 1287* ls
+ 1288* ga .
+ 1289* gcm "tasks update"
+ 1290* gp
+ 1291* git checkout master
+ 1292* ls
+ 1293* git branch
+ 1294* git checkout main
+ 1295* ls
+ 1296* grh
+ 1297* git push origin --delete Kalophain-1
+ 1298* ls
+ 1299* git branch
+ 1300* git push origin --delete kalophain-1
+ 1301* ls
+ 1302* git branch
+ 1303* git push origin --delete Kalophain-1
+ 1304* git branch kalophain-1
+ 1305* ls
+ 1306* cd ..
+ 1307* ~
+ 1308* cd documents/web_Dev/umuzi
+ 1309* pre_bootcamp
+ 1310* ls
+ 1311* gcl https://github.com/Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+ 1312* ls
+ 1313* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1314* ls
+ 1315* touch .gitignore
+ 1316* nvim .gitignore
+ 1317* bat .gitignore
+ 1318* ls
+ 1319* git branch kalophain-1
+ 1320* git checkout kalophain-1
+ 1321* ga .
+ 1322* gcm "tasks update"
+ 1323* gp
+ 1324* git push --set-upstream origin kalophain-1
+ 1325* cd ~
+ 1326* ls
+ 1327* documents
+ 1328* ls
+ 1329* web/umuzi
+ 1330* ls
+ 1331* web_Dev/umuzi/pre_bootcamp
+ 1332* ls
+ 1333* Temoso-Chueu-223-person-javascript
+ 1334* code .
+ 1335* ls
+ 1336* node person.js
+ 1337* ls
+ 1338* ll
+ 1339* l
+ 1340* ga .
+ 1341* ls
+ 1342* git branch
+ 1343* ls
+ 1344* ga ,
+ 1345* nvim person.js
+ 1346* documents/
+ 1347* ls
+ 1348* web_Dev/umuzi/pre_bootcamp
+ 1349* ls
+ 1350* Temoso-Chueu-223-person-javascript
+ 1351* ls
+ 1352* node person.js
+ 1353* code .
+ 1354* ls
+ 1355* touch .gitignore
+ 1356* ls
+ 1357* touch testPerson.js
+ 1358* code .
+ 1359* l
+ 1360* node testPerson.js
+ 1361* ls
+ 1362* node testPerson.js
+ 1363* ls
+ 1364* node testPerson.js
+ 1365* ls
+ 1366* Documents/
+ 1367* l
+ 1368* web_Dev/umuzi/pre_bootcamp
+ 1369* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1370* node task7.js
+ 1371* ls
+ 1372* touch test7.js
+ 1373* nvim test7.js
+ 1374* ls
+ 1375* documents/
+ 1376* web_Dev/umuzi/pre_bootcamp
+ 1377* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1378* ls
+ 1379* node test7.js
+ 1380* code .
+ 1381* l
+ 1382* node test7.js
+ 1383* l
+ 1384* node test7.js
+ 1385* ls
+ 1386* node test7.js
+ 1387* l
+ 1388* node test7.js
+ 1389* l
+ 1390* node test7.js
+ 1391* npm install --save-dev jest
+ 1392* npm fund
+ 1393* npm install --save-dev jest
+ 1394* ls
+ 1395* code .
+ 1396* npm test -- task7.test.js
+ 1397* ls
+ 1398* l
+ 1399* ..
+ 1400* ls
+ 1401* Temoso-Chueu-223-person-javascript
+ 1402* ls
+ 1403* bat testPerson.js
+ 1404* l
+ 1405* Documents/web_Dev/
+ 1406* ls
+ 1407* umuzi
+ 1408* l
+ 1409* pre_bootcamp
+ 1410* l
+ 1411* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1412* l
+ 1413* ls
+ 1414* npm install --save-dev jest
+ 1415* l
+ 1416* npm test
+ 1417* brew install jest
+ 1418* ls
+ 1419* l
+ 1420* npm install --save-dev jest
+ 1421* l
+ 1422* ls
+ 1423* node task1.test.js
+ 1424* npm test
+ 1425* npm run
+ 1426* ls
+ 1427* npm package.json
+ 1428* ls
+ 1429* cd ..
+ 1430* ls
+ 1431* node testPerson.js
+ 1432* ls
+ 1433* node testPerson.js
+ 1434* npm test -- task7.test.js
+ 1435* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1436* l
+ 1437* npm test
+ 1438* l
+ 1439* npm install
+ 1440* npm test
+ 1441* ls
+ 1442* documents/
+ 1443* web_Dev/umuzi/pre_bootcamp
+ 1444* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1445* ls
+ 1446* node task1.test.js
+ 1447* npm test
+ 1448* npm test -- task2.test.js
+ 1449* npm test -- task4.test.js
+ 1450* documents/
+ 1451* wr
+ 1452* web_Dev/umuzi/pre_bootcamp
+ 1453* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1454* l
+ 1455* npm test -- task4.test.js
+ 1456* npm test -- task3.test.js
+ 1457* node task4.test.js
+ 1458* npm test -- task4.test.js
+ 1459* /task4.test.js/i.
+ 1460* npm --test /task4.test.js/i.
+ 1461* node task4.test.js
+ 1462* npm --test /task4.test.js
+ 1463* npm test -- task4.test.js
+ 1464* npm test -- task5.test.js
+ 1465* npm test -- task6.test.js
+ 1466* l
+ 1467* ..
+ 1468* ~
+ 1469* gcl https://github.com/Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+ 1470* ls
+ 1471* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1472* l
+ 1473* git checkout kalophain-1
+ 1474* l
+ 1475* vim task6.js
+ 1476* l
+ 1477* documents/
+ 1478* web_Dev/umuzi/pre_bootcamp
+ 1479* ~
+ 1480* gcl https://github.com/Umuzi-org/Temoso-Chueu-219-level-1-programming-katas-javascript.git
+ 1481* git checkout kalophain-1
+ 1482* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1483* git checkout kalophain-1
+ 1484* ls
+ 1485* vim task6.js
+ 1486* alias
+ 1487* gru -- 3o minutes
+ 1488* gru
+ 1489* grs
+ 1490* documents/
+ 1491* web_Dev/umuzi/pre_bootcamp
+ 1492* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1493* gru -- 30 minutes
+ 1494* gru
+ 1495* npm test -- task6.test.js
+ 1496* npm test -- task7.test.js
+ 1497* npm test -- task6.test.js
+ 1498* documents/
+ 1499* web_Dev/umuzi/pre_bootcamp
+ 1500* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1501* l
+ 1502* touch test.task6.js
+ 1503* code .
+ 1504* node test.task6.js
+ 1505* l
+ 1506* documents/
+ 1507* web_Dev/umuzi/pre_bootcamp
+ 1508* l
+ 1509* Temoso-Chueu-223-person-javascript
+ 1510* node person.js
+ 1511* l
+ 1512* node testPerson.js
+ 1513* documents/
+ 1514* web_Dev/umuzi/pre_bootcamp
+ 1515* Temoso-Chueu-223-person-javascript
+ 1516* gp
+ 1517* git pull
+ 1518* git config pull.rebase false  # merge
+ 1519* l
+ 1520* git pull
+ 1521* node testPerson.js
+ 1522* documents/
+ 1523* web_Dev/umuzi/pre_bootcamp
+ 1524* l
+ 1525* Temoso-Chueu-2
+ 1526* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1527* l
+ 1528* ll
+ 1529* rm .DS_Store
+ 1530* gs
+ 1531* ..
+ 1532* l
+ 1533* pre_bootcamp
+ 1534* l
+ 1535* Temoso-Chueu-223-person-javascript/\\n
+ 1536* l
+ 1537* ll
+ 1538* rm .DS_Store
+ 1539* l
+ 1540* ga .
+ 1541* gcm "removed .Ds file"
+ 1542* gp
+ 1543* l
+ 1544* ..
+ 1545* l
+ 1546* basic
+ 1547* brew upgrade 
+ 1548* brew install node
+ 1549* brew install magnet
+ 1550* ls
+ 1551* node testPerson.js
+ 1552* ls
+ 1553* cd documents/web_Dev/umuzi
+ 1554* ls
+ 1555* pre_bootcamp
+ 1556* ls
+ 1557* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1558* l
+ 1559* git checkout main
+ 1560* git pull
+ 1561* git checkout -b task/1
+ 1562* l
+ 1563* ga . task1.test.js
+ 1564* gcm "sum of the multiples"
+ 1565* gss
+ 1566* grh
+ 1567* l
+ 1568* grh
+ 1569* git reset
+ 1570* l
+ 1571* ls
+ 1572* l
+ 1573* tasks
+ 1574* l
+ 1575* git checkout kalophain-1
+ 1576* l
+ 1577* git checkout task/1
+ 1578* l
+ 1579* ls
+ 1580* l
+ 1581* ls
+ 1582* ..
+ 1583* ls
+ 1584* ~
+ 1585* l
+ 1586* documents/
+ 1587* web_Dev/umuzi/pre_bootcamp
+ 1588* l
+ 1589* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1590* l
+ 1591* gss
+ 1592* gp
+ 1593* \n╭─    ~/documents/w/u/p/Temoso-Chueu-219-level-1-programming-katas-javascript    task/1 ?1\n╰─ gp                                                                                ─╯\nfatal: The current branch task/1 has no upstream branch.\nTo push the current branch and set the remote as upstream, use\n\n    git push --set-upstream origin task/1\n\nTo have this happen automatically for branches without a tracking\nupstream, see 'push.autoSetupRemote' in 'gi
+ 1594* l
+ 1595* git push --set-upstream origin task/1
+ 1596* git checkout main
+ 1597* l
+ 1598* ga README.md
+ 1599* gcm "README"
+ 1600* rm .DS_Store
+ 1601* l
+ 1602* gp
+ 1603* l
+ 1604* git checkout task/1
+ 1605* l
+ 1606* ga . 
+ 1607* gcm "removed test files"
+ 1608* gp
+ 1609* rm .DS_Store
+ 1610* L
+ 1611* l
+ 1612* ga .
+ 1613* gcm "removed test files"
+ 1614* gp
+ 1615* rm .DS_Store
+ 1616* ga .
+ 1617* gcm "deleted files"
+ 1618* gp
+ 1619* git checkout task/2
+ 1620* git checkout -b task/2
+ 1621* l
+ 1622* git checkout task/1
+ 1623* l
+ 1624* git checkout task/2
+ 1625* l
+ 1626* ga .
+ 1627* gcm "boolean"
+ 1628* gp
+ 1629* git push --set-upstream origin task/2
+ 1630* l
+ 1631* ll
+ 1632* l
+ 1633* git checkout -b task/3
+ 1634* l
+ 1635* ga .
+ 1636* gcm "2 numbers boolean"
+ 1637* gp
+ 1638* git push --set-upstream origin task/3
+ 1639* l
+ 1640* git checkout -b task/4
+ 1641* l
+ 1642* ga .
+ 1643* gcm "# sqaures"
+ 1644* gp
+ 1645* git push --set-upstream origin task/4
+ 1646* git checkout -b task/5
+ 1647* l
+ 1648* ga .
+ 1649* gcm "triangles"
+ 1650* gp --set-upstream origin task/5
+ 1651* git checkout -b task/6
+ 1652* l
+ 1653* ga .
+ 1654* gcm "the longest arrays"
+ 1655* gp --set-upstream origin task/6
+ 1656* git checkout -b task/7
+ 1657* l
+ 1658* ga .
+ 1659* gcm "creating combination pairs"
+ 1660* gp --set-upstream origin task/7
+ 1661* ll
+ 1662* rm .DS_Store
+ 1663* ga .
+ 1664* gcm "deleted .ds"
+ 1665* gp --set-upstream origin task/7
+ 1666* l
+ 1667* ..
+ 1668* l
+ 1669* Temoso-Chueu-223-person-javascript
+ 1670* l
+ 1671* node testPerson.js
+ 1672* l
+ 1673* ~
+ 1674* l
+ 1675* cd documents/web_Dev/umuzi
+ 1676* pre_bootcamp
+ 1677* Temoso-Chueu-219-level-1-programming-katas-javascript
+ 1678* l
+ 1679* gs
+ 1680* git checkout master
+ 1681* git checkout main
+ 1682* l
+ 1683* git pull origin main
+ 1684* l
+ 1685* rm task4.js
+ 1686* ga .
+ 1687* gcm "deleted task causing conflicts"
+ 1688* gp
+ 1689* l
+ 1690* ll
+ 1691* git checkout task/4
+ 1692* l
+ 1693* alias
+ 1694* l
+ 1695* git merge main
+ 1696* l
+ 1697* ll
+ 1698* git checkout main
+ 1699* l
+ 1700* gp
+ 1701* git checkout task/4
+ 1702* l
+ 1703* git reset
+ 1704* l
+ 1705* git pull
+ 1706* l
+ 1707* git checkout main
+ 1708* ~
+ 1709* brew install rosetta
+ 1710* softwareupdate --install-rosetta
+ 1711* brew cleanup all
+ 1712* brew upgrade 
+ 1713* fzf
+ 1714* brew uninstall --force --zap wineskin
+ 1715* \n\n
+ 1716* brew install --cask --no-quarantine gcenx/wine/kegworks
+ 1717* brew install --cask 3uTools
+ 1718* ll
+ 1719* echo hello, world
+ 1720* l
+ 1721* echo 'console.log("Hello");' > file_name
+ 1722* l
+ 1723* node file_name 
+ 1724* bat file_name 
+ 1725* rm file_name 
+ 1726* l
+ 1727* ll
+ 1728* documents/
+ 1729* l
+ 1730* web_Dev/umuzi/pre_bootcamp
+ 1731* ..
+ 1732* l
+ 1733* ..
+ 1734* l
+ 1735* Kprojects/
+ 1736* l
+ 1737* code lottoGenerator.js .
+ 1738* l
+ 1739* node lottoTest.js
+ 1740* node lottoGenerator.js 
+ 1741* iw dev
+ 1742* ~
+ 1743* inconfig
+ 1744* ip addr
+ 1745* ip
+ 1746* iw dev
+ 1747* iwconfig
+ 1748* man espeak
+ 1749* kill cleanmymac
+ 1750* brew upgrade
+ 1751* function edit_SMPrivilegedExecutables() {\n\t/usr/libexec/PlistBuddy -c "Remove :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent" "$1"\n\t/usr/libexec/PlistBuddy -c "Add :SMPrivilegedExecutables:com.macpaw.CleanMyMac4.Agent string 'identifier com.macpaw.CleanMyMac4.Agent'" "$1"\n}\nfunction CMMFoundation_framework_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/fd7bbfa9fd030091b3000094/200080d2c0035fd6b3000094/; \\n\t     s/554889e5e817030000/48c7c001000000c300/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction CMAgentController_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/ffc30191c0035fd6ff4302d1fc6f03a9fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/ffc30191c0035fd6000080d2c0035fd6fa6704a9f85f05a9f65706a9f44f07a9fd7b08a9fd030291f90300aa/; \\n\t     s/0094ffc301d1fa6702a9f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/0094200080d2c0035fd6f85f03a9f65704a9f44f05a9fd7b06a9fd830191f60300aa/; \\n\t\t s/554889e54157415641554154534883ec284989fe48897dd0/48c7c001000000c341554154534883ec284989fe48897dd0/; \\n\t     s/415f5dc3554889e54157415641554154534883ec584989fd/415f5dc348c7c000000000c341554154534883ec584989fd/; " | \\n\txxd -r -p -c 0 - "$1"\n}\nfunction cmmx_agent_patch() {\n\txxd -p -c 0 "$1" - | \\n\tsed "s/f40300aae0090034/f40300aa340080d2/; \\n\t     s/84c00f8483010000/84c0909090909090/; \\n\t\t s/20616e6420616e63686f72206170706c652067656e6572696320616e64206365727469666963617465206c6561665b7375626a6563742e4f555d203d20225338455838324e4a503622/20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020/g; " | \\n\txxd -r -p -c 0 - "$1"\n\tcodesign -fs - --all-architectures --timestamp=none "$1"\n}\nfunction cmmx_patch() {\n\tlocal cmmx_exe_path="$1/Contents/MacOS/CleanMyMac X"\n\txxd -p -c 0 "$cmmx_exe_path" - | \\n\tsed "s/fc6fbea9fd7b01a9fd430091ff831bd1e8631191/200080d2c0035fd6fd430091ff831bd1e8631191/; \\n\t\t s/554889e54881eca0060000/48c7c001000000c3060000/; " | \\n\txxd -r -p -c 0 - "$cmmx_exe_path"\n\n\tCMAgentController_patch "$cmmx_exe_path"\n\tCMAgentController_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/MacOS/CleanMyMac X Menu"\n\n\tedit_SMPrivilegedExecutables "$1/Contents/Info.plist"\n\tedit_SMPrivilegedExecutables "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Info.plist"\n\t\n\tCMMFoundation_framework_patch "$1/Contents/Library/LoginItems/CleanMyMac X HealthMonitor.app/Contents/Frameworks/CMMFoundation.framework/Versions/A/CMMFoundation"\n\tCMMFoundation_framework_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Frameworks/CMMFoundation.framework/Versions/A/CMMFoundation"\n\n\tcmmx_agent_patch "$1/Contents/Library/LaunchServices/com.macpaw.CleanMyMac4.Agent"\n\tcmmx_agent_patch "$1/Contents/Library/LoginItems/CleanMyMac X Menu.app/Contents/Library/LaunchServices/com.macpaw.CleanMyMac4.Agent"\n\n\tcodesign -fs - --all-architectures --deep --timestamp=none "$1" && xattr -cr "$1"\n}; cmmx_patch "/Applications/CleanMyMac X.app"
+ 1752* brew search bootdev
+ 1753* brew search
+ 1754* l
+ 1755* documents/
+ 1756* l
+ 1757* git
+ 1758* cd git
+ 1759* ll
+ 1760* l
+ 1761* ..
+ 1762* Documents/web_Dev/
+ 1763* cd fit
+ 1764* cd git
+ 1765* ~
+ 1766* documents/
+ 1767* web_Dev/git_course/
+ 1768* git config --list
+ 1769* git config --list | grep name
+ 1770* git config --list | grep email
+ 1771* l
+ 1772* ll
+ 1773* git init
+ 1774* git checkout gittest
+ 1775* git branch
+ 1776* git branch -b gittest
+ 1777* git checkout gittest
+ 1778* ll
+ 1779* cat ~/.gitconfig
+ 1780* git checkout
+ 1781* git branch
+ 1782* git config --global init.defaultbranch master
+ 1783* ~/.gitconfig
+ 1784* cat ~/.gitconfig
+ 1785* git config --add --global init.defaultbranch main
+ 1786* git branch
+ 1787* cat ~/.gitconfig
+ 1788* ll .git
+ 1789* find .git
+ 1790* cat .git/HEAD 
+ 1791* vim contents.md
+ 1792* gs
+ 1793* git add contents.md
+ 1794* gs
+ 1795* gc "awesome"
+ 1796* gc
+ 1797* gcm "added contents"
+ 1798* gs
+ 1799* git log
+ 1800* man git -
+ 1801* \tgit log
+ 1802* git log -n 10
+ 1803* ls -al
+ 1804* find .git/
+ 1805* ll .git/objects
+ 1806* find .git/
+ 1807* ll
+ 1808* ~
+ 1809* nvim countcards.js
+ 1810* node countcards.js
+ 1811* npm countcards.js
+ 1812* ll
+ 1813  gcl https://github.com/Kalophain14/git-basic-exercises.git
+ 1814  l
+ 1815  documents/web_Dev/umuzi/pre_bootcamp/
+ 1816  l
+ 1817  gcl https://github.com/Kalophain14/git-basic-exercises.git
+ 1818  git-basic-exercises
+ 1819  ls -a
+ 1820  gs
+ 1821  git log
+ 1822  rm README.md 
+ 1823  touch README.md
+ 1824  git log
+ 1825  ga .
+ 1826  gcm "initial commit"
+ 1827  git log
+ 1828  nano README.md
+ 1829  cat README.md 
+ 1830  gs
+ 1831  gcm "second commit"
+ 1832  ga .
+ 1833  gcm "second commit"
+ 1834  nano README.md
+ 1835  ga README.md 
+ 1836  gcm "third commit"
+ 1837  git log
+ 1838  .
+ 1839  ..
+ 1840  l
+ 1841  rm -rf git-basic-exercises
+ 1842  gcl https://github.com/Kalophain14/git-basic-exercises.git
+ 1843  git-basic-exercises
+ 1844  ls -a
+ 1845  touch README.md
+ 1846  ls -a
+ 1847  gs
+ 1848  ga README.md 
+ 1849  gs
+ 1850  git restore README.md
+ 1851  gs
+ 1852  gcm "initial commit"
+ 1853  git log
+ 1854  nano README.md
+ 1855  cat README.md 
+ 1856  gs
+ 1857  gcm "second commit"
+ 1858  ga README.md
+ 1859  gcm "second commit"
+ 1860  nano README.md
+ 1861  ga README.md 
+ 1862  gcm "third commit"
+ 1863  git log
+ 1864  git checkout
+ 1865  git checkout 55e674c68f0a560bf8468342fb836ca0f156d465
+ 1866  cat README.md 
+ 1867  git checkout main
+ 1868  cat README.md 
+ 1869  git checkout main
+ 1870  git branch --unset-upstream
+ 1871  git checkout main
+ 1872  git branch
+ 1873  git log
+ 1874  git branch milkshake-flavours
+ 1875  git branch
+ 1876  git checkout milkshake-flavours
+ 1877  git branch
+ 1878  nano milkshakes.md
+ 1879  gs
+ 1880  ga milkshakes.md
+ 1881  gcm "added initial flavours"
+ 1882  git log
+ 1883  git checkout main
+ 1884  git log
+ 1885  git checkout history
+ 1886  git branch history
+ 1887  git branch
+ 1888  git log
+ 1889  git checkout history
+ 1890  git log
